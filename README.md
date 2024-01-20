@@ -16,7 +16,7 @@ Enjoy Learning
 
 🌐 Let's collaborate and bring your web projects to life! Feel free to reach out if you have any questions or if there's anything else you'd like to know. Happy coding! 💻
 <td >
-# Seo manager - 
+# position In Company: Seo Manager - Full Stack Web Developer - IT Manager
      <a href="https://app.daily.dev/sadrakhanjari"><img src="https://api.daily.dev/devcards/31570f2d7a37471595672b4527ec6edc.png?r=b42" width="400" alt="sadra's Dev Card"/></a>
     </td>
     
