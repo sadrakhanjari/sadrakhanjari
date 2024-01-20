@@ -5,3 +5,8 @@
 🛠️ Whether it's building robust backend systems, designing sleek frontend interfaces, or optimizing the overall user experience, I'm always eager to take on new challenges. My problem-solving mindset and attention to detail ensure that the solutions I create not only meet but exceed expectations.
 
 🌐 Let's collaborate and bring your web projects to life! Feel free to reach out if you have any questions or if there's anything else you'd like to know. Happy coding! 💻
+
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
