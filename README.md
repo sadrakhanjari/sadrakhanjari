@@ -41,9 +41,8 @@ Enjoy Learning
 Number of open source projects to work:
 - [Laravel] - Fly to infinity web-app!
 - [Vue JS] - HTML enhanced for web apps!
-- [Echo] -  powerful and versatile web framework
-- [Inertia.js] - awesome tools for develop app
+- [PHP] - Powerful back-end language
+- [js] - awesome tools for develop app
 - [Livewire] - great laravel toool.
 - [Bootstrap] - great UI boilerplate for modern web apps
 - [Tailwinds] - awesome css framework
-- [Nuxt] - framework for vue framework
